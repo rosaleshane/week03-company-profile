@@ -69,3 +69,11 @@ ALYSSUM is a fine jewelry brand concept inspired by Allison's vision of creating
 ## Reflection
 
 This activity helped me understand how Laravel uses
+## Testing and Verification
+
+The ALYSSUM website was tested using Laravel's built-in commands.
+
+- `php artisan route:list` — Verified all four company profile routes.
+- `php artisan test` — All tests passed.
+- Responsive layouts were checked on desktop and mobile screens.
+- The Contact form is UI-only and does not submit data.
